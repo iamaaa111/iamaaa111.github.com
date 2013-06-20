@@ -4,7 +4,7 @@
   <title><![CDATA[Фермерское хозяйство Сенавиан]]></title>
   <link href="http://iamaaa111.github.io/atom.xml" rel="self"/>
   <link href="http://iamaaa111.github.io/"/>
-  <updated>2013-06-20T16:33:05+00:00</updated>
+  <updated>2013-06-20T16:39:26+00:00</updated>
   <id>http://iamaaa111.github.io/</id>
   <author>
     <name><![CDATA[Сенавиан]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test3]]></title>
+    <link href="http://iamaaa111.github.io/test3/"/>
+    <updated>2013-06-20T16:38:00+00:00</updated>
+    <id>http://iamaaa111.github.io/test3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Все время надо прбовообвбовать]]></title>
+    <link href="http://iamaaa111.github.io/vsie-vriemia-nado-prbovoobvbovat%27/"/>
+    <updated>2013-06-20T16:36:00+00:00</updated>
+    <id>http://iamaaa111.github.io/vsie-vriemia-nado-prbovoobvbovat&#8217;</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ТеВсе время надо пробовать]]></title>
+    <link href="http://iamaaa111.github.io/tievsie-vriemia-nado-probovat%27/"/>
+    <updated>2013-06-20T16:35:00+00:00</updated>
+    <id>http://iamaaa111.github.io/tievsie-vriemia-nado-probovat&#8217;</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[тест2]]></title>
+    <link href="http://iamaaa111.github.io/tiest2/"/>
+    <updated>2013-06-20T16:35:00+00:00</updated>
+    <id>http://iamaaa111.github.io/tiest2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[тест]]></title>
