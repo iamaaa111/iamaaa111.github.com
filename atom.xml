@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://iamaaa111.github.io/atom.xml" rel="self"/>
+  <link href="http://iamaaa111.github.io/"/>
+  <updated>2013-06-20T14:38:15+00:00</updated>
+  <id>http://iamaaa111.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[тест]]></title>
+    <link href="http://iamaaa111.github.io/blog/2013/06/20/tiest/"/>
+    <updated>2013-06-20T14:36:00+00:00</updated>
+    <id>http://iamaaa111.github.io/blog/2013/06/20/tiest</id>
+    <content type="html"><![CDATA[<h1>тест</h1>
+
+<p>Тесты всегда проходили нормально, но мимо.</p>
+
+<blockquote><p>иногда мимо
+иногда нормально
+1. тест1
+2. тест2
+3. тест3</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>
