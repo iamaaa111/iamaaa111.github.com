@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Фермерское хозяйство Сенавиан]]></title>
   <link href="http://iamaaa111.github.io/atom.xml" rel="self"/>
   <link href="http://iamaaa111.github.io/"/>
-  <updated>2013-06-20T14:38:15+00:00</updated>
+  <updated>2013-06-20T16:21:24+00:00</updated>
   <id>http://iamaaa111.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Сенавиан]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[тест]]></title>
-    <link href="http://iamaaa111.github.io/blog/2013/06/20/tiest/"/>
+    <link href="http://iamaaa111.github.io/tiest/"/>
     <updated>2013-06-20T14:36:00+00:00</updated>
-    <id>http://iamaaa111.github.io/blog/2013/06/20/tiest</id>
+    <id>http://iamaaa111.github.io/tiest</id>
     <content type="html"><![CDATA[<h1>тест</h1>
 
 <p>Тесты всегда проходили нормально, но мимо.</p>
